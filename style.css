@@ -19,7 +19,6 @@
 .div1 {
 	background: gray;
 	width: 31%;
-	height: 150px;
 	margin: 1%;
 	border: 2px solid black;
 	overflow: hidden;
@@ -54,7 +53,6 @@
 .div2 {
 	background: gray;
 	width: 31%;
-	height: 150px;
 	margin: 1%;
 	border: 2px solid black;
 	overflow: hidden;
@@ -89,7 +87,6 @@
 .div3 {
 	background: gray;
 	width: 31%;
-	height: 150px;
 	margin: 1%;
 	border: 2px solid black;
 	overflow: hidden;
