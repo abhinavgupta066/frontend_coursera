@@ -19,6 +19,7 @@
 .div1 {
 	background: gray;
 	width: 31%;
+	height: auto;
 	margin: 1%;
 	border: 2px solid black;
 	float: left;
@@ -52,6 +53,7 @@
 .div2 {
 	background: gray;
 	width: 31%;
+	height: auto;
 	margin: 1%;
 	border: 2px solid black;
 	float: left;
@@ -88,6 +90,7 @@
 	margin: 1%;
 	border: 2px solid black;
 	float: left;
+	height: auto;
 }
 
 @media (max-width: 1199px) {
